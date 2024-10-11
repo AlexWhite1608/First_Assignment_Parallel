@@ -1,0 +1,3 @@
+/home/alessandro/Dev/c/First_Assignment_Parallel/cmake-build-debug/CMakeFiles/First_Assignment_Parallel.dir
+/home/alessandro/Dev/c/First_Assignment_Parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alessandro/Dev/c/First_Assignment_Parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
