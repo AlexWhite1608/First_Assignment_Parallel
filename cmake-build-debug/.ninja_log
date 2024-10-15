@@ -1,3 +1,7 @@
 # ninja log v6
-0	474	1728656576947959969	CMakeFiles/First_Assignment_Parallel.dir/main.cpp.o	adab8b2ce8e2eba
-475	541	1728656577422959915	First_Assignment_Parallel	544bb7e15f3b4eb
+1	51	1729006466417035652	CMakeFiles/First_Assignment_Parallel.dir/main.cpp.o	adab8b2ce8e2eba
+2	88	1729006833867151227	build.ninja	855da28e43040e72
+51	109	1729006466467036193	First_Assignment_Parallel	1f952803a8bfc467
+1	37	1729006833867151227	build.ninja	855da28e43040e72
+0	752	1729006833874151308	CMakeFiles/First_Assignment_Parallel.dir/main.cpp.o	adab8b2ce8e2eba
+753	842	1729006834627159975	First_Assignment_Parallel	3ebff3f08138f552
