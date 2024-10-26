@@ -55,6 +55,12 @@ build CMakeFiles/First_Assignment_Parallel.dir/main.cpp.o: CXX_COMPILER__First_A
   OBJECT_DIR = CMakeFiles/First_Assignment_Parallel.dir
   OBJECT_FILE_DIR = CMakeFiles/First_Assignment_Parallel.dir
 
+build CMakeFiles/First_Assignment_Parallel.dir/src/Boid.cpp.o: CXX_COMPILER__First_Assignment_Parallel_unscanned_Debug /home/alessandro/Dev/c/First_Assignment_Parallel/src/Boid.cpp || cmake_object_order_depends_target_First_Assignment_Parallel
+  DEP_FILE = CMakeFiles/First_Assignment_Parallel.dir/src/Boid.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/First_Assignment_Parallel.dir
+  OBJECT_FILE_DIR = CMakeFiles/First_Assignment_Parallel.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target First_Assignment_Parallel
@@ -63,7 +69,7 @@ build CMakeFiles/First_Assignment_Parallel.dir/main.cpp.o: CXX_COMPILER__First_A
 #############################################
 # Link the executable First_Assignment_Parallel
 
-build First_Assignment_Parallel: CXX_EXECUTABLE_LINKER__First_Assignment_Parallel_Debug CMakeFiles/First_Assignment_Parallel.dir/main.cpp.o | /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1
+build First_Assignment_Parallel: CXX_EXECUTABLE_LINKER__First_Assignment_Parallel_Debug CMakeFiles/First_Assignment_Parallel.dir/main.cpp.o CMakeFiles/First_Assignment_Parallel.dir/src/Boid.cpp.o | /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1
   FLAGS = -g
   LINK_LIBRARIES = /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1  /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1  /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1
   OBJECT_DIR = CMakeFiles/First_Assignment_Parallel.dir
